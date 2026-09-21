@@ -44,7 +44,7 @@ layers:
   - BACKSPACE
   - DELETE
   Number:
-  - '1'
+  - F2
   - '2'
   - '3'
   - '4'
