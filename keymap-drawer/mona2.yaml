@@ -216,7 +216,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
-- p: [40, 41]
+- p: [41, 39]
   k: {t: '5', h: toggle}
-- p: [33, 34, 35]
+- p: [40, 41]
   k: {t: Connection, h: toggle}
