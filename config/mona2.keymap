@@ -26,12 +26,12 @@
 
         MouseLayer {
             bindings = <&tog 3>;
-            key-positions = <40 41>;
+            key-positions = <41 39>;
         };
 
         ToLayer6 {
             bindings = <&to 4>;
-            key-positions = <33 34 35>;
+            key-positions = <40 41>;
         };
     };
 
