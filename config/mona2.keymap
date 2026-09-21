@@ -87,7 +87,7 @@
 
         Number {
             bindings = <
-&kp NUMBER_1    &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_4       &kp NUMBER_5                        &kp GRAVE  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp SLASH
+&kp F2          &kp NUMBER_2  &kp NUMBER_3      &kp NUMBER_4       &kp NUMBER_5                        &kp GRAVE  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp SLASH
 &trans          &trans        &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans                   &trans     &trans     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTERISK
 &kp LEFT_SHIFT  &trans        &trans            &trans             &trans        &trans     &trans     &trans     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS
 &kp LCTRL       &kp F4        &kp F2            &kp ESCAPE         &kp SPACE     &kp TAB    &kp ENTER  &kp N0                                               &kp PLUS
